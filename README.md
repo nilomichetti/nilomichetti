@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, sou Nilo Michetti 👋
+
+Consultor Aduaneiro, Novo Processo de Importação e Catálogo de Produtos <br>
+Fala sobre #analista, #auditoria, #aconselhamento, #administrativo e #administração
+
+<a href="https://www.linkedin.com/in/nilo-michetti-72699524" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!--
 **nilomichetti/nilomichetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
